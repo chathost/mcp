@@ -1,0 +1,9 @@
+{
+  "name": "@chathost/mcp-win-x64",
+  "version": "1.0.0",
+  "description": "chathost MCP server binary for win-x64",
+  "os": ["win32"],
+  "cpu": ["x64"],
+  "files": ["bin/"],
+  "license": "MIT"
+}

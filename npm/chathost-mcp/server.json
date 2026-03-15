@@ -1,0 +1,10 @@
+{
+  "name": "chathost",
+  "description": "Deploy websites from your AI agent. Build Docker apps and deploy them to chathost.io with a single command.",
+  "repository": "https://github.com/chathost/mcp",
+  "homepage": "https://chathost.io",
+  "npm": "@chathost/mcp",
+  "runtime": "node",
+  "command": "npx",
+  "args": ["-y", "@chathost/mcp"]
+}
